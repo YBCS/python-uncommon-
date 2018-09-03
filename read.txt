@@ -1,0 +1,15 @@
+03 - 09 - 18
+
+Mdv's question :
+
+You are given 2 list say list1 and list2: its better to show example
+list1 = [1,2,3,4]
+list2 = [8,7,9,2,1]
+print out the no. "NOT" common in both array 
+expected output : [3,4,8,7,9]
+
+The codes are in file ''
+
+I am going to takle this problem in 5 or more ways.
+
+This will help me learn and understand the little things that matter while tackling larger problems
