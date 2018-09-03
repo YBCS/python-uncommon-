@@ -10,6 +10,6 @@ expected output : [3,4,8,7,9]
 
 The codes are in file ''
 
-I am going to takle this problem in 5 or more ways.
+I am going to tackle this problem in 5 or more ways.
 
 This will help me learn and understand the little things that matter while tackling larger problems
