@@ -17,3 +17,20 @@ loop_to_check(b,a)
 										
 print(c)								
 ###########################
+
+##########################
+##Version 2
+
+def disjoint(e,f):
+	c = e[:]
+	d = f[:]
+	for i in range(len(e)):
+		for j in range(len(f)):
+			if e[i] == f[j]:
+				c.remove(e[i])
+				d.remove(d[j])
+	final = c + d
+	print(final)
+
+print(disjoint(a,b))							
+###########################
